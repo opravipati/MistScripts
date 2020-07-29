@@ -27,5 +27,6 @@ Repository currently contains four files.
 2. orgUpgrades.py can be used to upgrade infrastructure at all sites in the organization
 3. siteUpgrade.py can be used to upgrade infrastructure at any one site in the organization
 4. orgOfflineAPs.py can be used to provide a list of offline APs in the organization and write it to a csv file.
+5. trackClient.py can be used to track client details every 60 seconds
 
 Scripts for more operational tasks will be added in the future. 
